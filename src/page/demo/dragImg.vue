@@ -35,7 +35,7 @@
           let img = new Image();
           img.src = file.result;
           this.info = img;
-          console.log(img)
+          console.log(img) 
           imgRound.appendChild(img);
         }
       }
