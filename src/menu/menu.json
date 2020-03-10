@@ -1,0 +1,41 @@
+[
+    {
+      "menuName": "一些小技巧",
+      "isRoot": true,
+      "children": [
+        {"menuName": "Async 动态组件","name": "bmc-async", "path": "exp/asyncComponent"}
+      ]
+    },
+    {
+      "menuName": "测试用例",
+      "isRoot": true,
+      "children": [
+        {"menuName": "Example 组件案例","name": "bmc-component", "path": "examples/component"},
+        {"menuName": "Drag 拖拽案例","name": "bmc-drag", "path": "examples/drag"},
+        {"menuName": "Drag 拖拽图片","name": "bmc-drag-img", "path": "examples/dragImg"}
+      ]
+    },
+    {
+      "menuName": "基础组件",
+      "isRoot": true,
+      "children": [
+        {"menuName": "Button 按钮","name": "bmc-button", "path": "basic/button"},
+        {"menuName": "Color 色彩","name": "bmc-color", "path": "basic/color"}
+      ]
+    },
+    {
+      "menuName": "提示",
+      "isRoot": true,
+      "children": [
+        {"menuName": "Message 消息提示","name": "bmc-message", "path": "notice/message"},
+        {"menuName": "Toast 轻提示","name": "bmc-toast", "path": "notice/toast"}
+      ]
+    },
+    {
+      "menuName": "工具类组件",
+      "isRoot": true,
+      "children": [
+        {"menuName": "Progress 审批流","name": "bmc-progress", "path": "tool/progress"}
+      ]
+    }
+]

@@ -1,0 +1,23 @@
+*{box-sizing: border-box;margin: 0;padding: 0;}
+:root{
+
+  --bg_color: rgba(123,123,123, .3);    /* 背景色 */
+
+  --font_size: 14px;                    /* 字体大小 */
+  --font_color: #3d3d3d;                /* 常规字体色 */
+  --hover_font_color: #2879ff;          /* hover字体色 */
+
+  --header_font_size: 12px;             /* 标题字体大小 */
+  --header_color: #777;                 /* 标题字体色 */
+
+  --border_color: #eaeefb;              /* 边框颜色 */
+  --border_active_color: #2879ff;       /* 边框颜色 */
+
+  --margin_top_size: 10px;              /* 垂直方向外边距 */
+  --margin_left_size: 20px;             /* 水平方向外边距 */
+  --padding_top_size: 10px;             /* 垂直方向内边距 */
+  --padding_left_size: 20px;            /* 水平方向内边距 */
+
+
+
+}
