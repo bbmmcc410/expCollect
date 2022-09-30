@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "element-ui": "^2.11.1",
     "vue": "^2.5.2",
     "vue-async-computed": "^3.6.1",
